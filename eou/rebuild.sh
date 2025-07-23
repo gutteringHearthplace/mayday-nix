@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 # Notes:
-# Testing
 # 'mayday-nix' should be your config directory, rename as necessary
 
 cd $HOME/mayday-nix
